@@ -1,2 +1,2 @@
 # Illuminati
-Creates the dependency graph of the selected repositories
+This is a repo forcollecting knowladge for development.
