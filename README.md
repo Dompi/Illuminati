@@ -1,2 +1,2 @@
 # Illuminati
-This is a repo forcollecting knowladge for development.
+This is a repo for collecting knowladge for development.
